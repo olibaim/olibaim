@@ -1,27 +1,24 @@
-## Hi there! 👋 
-## My name is Olivia Bailey and am a current junior at University of Louisville's Speed School of Enginnering. I will be adding a few of my different projects here within the next few weeks so be sure to check them out!
+## Hi! 👋 
+## My name is Olivia and am a current junior at University of Louisville's Speed School of Enginnering.
 
 ### Here's what I've been working with lately:
-- MySQL
-- Java, JavaFX, Swing API
-- Microsoft Azure
 - C and C++
-- Qt Design
+- C# and .NET
+- Microsoft Azure
+- Unity
 
 ### Here's what I'm learning currently:
 - AI Algorithms, Integration
 - Azure Bot Development
 - C++ ADT Functionality
-- More JavaScript, JSON!
-- More Python!
+- JavaScript, JSON
+- Python
 
-### Here are some projects I've been working on:
-- Java PDF Reader
-- C++ Chess
-- Minimax AI
-- Azure chabot for UofL 
+### Here are some projects I have been working on:
+- Minimax Chess AI
+- Azure Cloud Storage API
 
-### Here's my LinkedIn!
+### Be sure to see me on LinkedIn as well:
 https://www.linkedin.com/in/olivia-bailey-308329218/
 
 ## Thanks for visiting!
